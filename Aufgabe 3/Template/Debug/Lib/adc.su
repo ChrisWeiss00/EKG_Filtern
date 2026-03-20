@@ -1,0 +1,2 @@
+../Lib/adc.c:9:6:adcInit	16	static
+../Lib/adc.c:28:10:adcGet	16	static
