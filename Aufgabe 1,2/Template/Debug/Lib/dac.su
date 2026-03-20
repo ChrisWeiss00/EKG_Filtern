@@ -1,0 +1,2 @@
+../Lib/dac.c:9:6:dacInit	16	static
+../Lib/dac.c:31:6:dacSet	16	static

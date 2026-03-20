@@ -1,0 +1,5 @@
+../Lib/core_cm3.h:1508:22:__NVIC_EnableIRQ	16	static,ignoring_inline_asm
+../Lib/uart.c:26:6:uartInit	8	static
+../Lib/uart.c:53:6:uartPrintf	280	static
+../Lib/uart.c:81:7:uartGetString	16	static
+../Lib/uart.c:107:6:USART1_IRQHandler	4	static

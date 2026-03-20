@@ -1,0 +1,7 @@
+../Lib/lcd.c:22:13:PortSetMode	16	static
+../Lib/lcd.c:31:13:SPItransceive	24	static
+../Lib/lcd.c:55:13:SPIinit	16	static
+../Lib/lcd.c:93:13:writeCmd	24	static
+../Lib/lcd.c:107:13:writeDat	24	static
+../Lib/lcd.c:126:6:lcdInit	8	static
+../Lib/lcd.c:158:6:lcdPrintf	60	static

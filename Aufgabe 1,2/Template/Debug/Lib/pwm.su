@@ -1,0 +1,3 @@
+../Lib/pwm.c:9:6:pwmInit	16	static
+../Lib/pwm.c:41:6:pwmSet	16	static
+../Lib/pwm.c:48:6:pwmEnable	16	static

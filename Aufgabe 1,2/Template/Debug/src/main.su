@@ -1,0 +1,7 @@
+../src/main.c:90:6:zeitpunkte_erhoehen	32	static
+../src/main.c:99:7:wert_berechnen	24	static
+../src/main.c:116:7:calculateFilterValue	32	static
+../src/main.c:132:7:tiefpass	40	static
+../src/main.c:146:7:filter_berechnen	56	static
+../src/main.c:196:5:myIsr	32	static
+../src/main.c:237:5:main	24	static
